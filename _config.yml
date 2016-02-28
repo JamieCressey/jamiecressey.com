@@ -39,6 +39,7 @@ jekyll-press:
 google_analytics: UA-65933410-1
 
 exclude:
+  - README.md
   - deploy.sh
   - s3_website.yml
   - Gemfile
