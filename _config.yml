@@ -27,7 +27,6 @@ kramdown:
 highlighter: rouge
 
 gems:
-  - jekyll-sitemap
   - jekyll-press
 
 jekyll-press:

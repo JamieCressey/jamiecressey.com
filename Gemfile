@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 gem 'jekyll'
-gem 'jekyll-sitemap'
 gem 'jekyll-press'
 gem 's3_website'
 gem 'jekyll-tagging'
