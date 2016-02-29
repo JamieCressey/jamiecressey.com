@@ -14,7 +14,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamiecressey.com" # the base hostname & protocol for your site
 github_username: JamieCressey
-twitter_username: JamieCressey
+twitter:
+  username: JamieCressey
+facebook:
+ app_id: 832046616904841
+author:
+  twitter: JamieCressey
 
 permalink: /:year/:month/:day/:title/
 
@@ -28,6 +33,7 @@ highlighter: rouge
 
 gems:
   - jekyll-press
+  - jekyll-seo-tag
 
 jekyll-press:
   exclude:
